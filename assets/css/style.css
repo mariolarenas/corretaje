@@ -203,3 +203,24 @@ nav {
     z-index: 100
 }
 
+
+#ubicacion{
+    display: grid;
+grid-template-columns: repeat(4, 1fr);
+grid-template-rows: 1fr;
+grid-column-gap: 56px;
+grid-row-gap: 46px;
+margin-left: 30%;
+
+
+
+}
+
+#textoMapa{
+    text-align: right;
+}
+
+#seccion5{
+    margin-top: 2em;      
+    margin-bottom: 2em;
+}
