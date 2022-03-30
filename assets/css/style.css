@@ -211,10 +211,13 @@ grid-template-rows: 1fr;
 grid-column-gap: 56px;
 grid-row-gap: 46px;
 margin-left: 30%;
-
-
-
 }
+
+.tituloMapa{
+    margin-bottom: 0.5em;
+}
+
+
 
 #textoMapa{
     text-align: right;
