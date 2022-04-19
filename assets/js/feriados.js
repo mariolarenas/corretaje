@@ -12,7 +12,7 @@ $(document).ready(function () {
         item.irrenunciable="No"
 
 
-        $(".table tbody").append(`<tr>
+        $(".feriados").append(`<tr>
                 <td>${item.fecha}</td>
                 <td>${item.nombre}</td>
                 <td>${item.irrenunciable}</td>
